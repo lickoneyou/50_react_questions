@@ -391,3 +391,14 @@ JavaScript объект, в котором содержится состояни
 ![key](/img/key.png "key")
 
 </details>
+
+<details>
+<summary>
+
+**33. Что такое Error Boundaries в React?**
+
+</summary>
+
+React - компонент, позволяющий обрабатывать ошибки в дочерних компонентах. Для это присутствует метод **componentDidCatch(error, info)**
+
+</details>
