@@ -358,3 +358,14 @@ JavaScript объект, в котором содержится состояни
 3. Redux Saga
 
 </details>
+
+<details>
+<summary>
+
+**30. Что такое Pure Components?**
+
+</summary>
+
+Тоже самое, что и Component, кроме того, что автоматически за вас реализует метод **shouldComponentUpdate**
+
+</details>
