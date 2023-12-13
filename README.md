@@ -345,3 +345,16 @@ JavaScript объект, в котором содержится состояни
 Нельзя изменять состояние компонента (например вызывать **setState**). Должен быть чистой (pure) функцией
 
 </details>
+
+<details>
+<summary>
+
+**29. Какие типы middleware есть в redux для работы с асинхронностью?**
+
+</summary>
+
+1. Redux Thunk
+2. Redux Promise
+3. Redux Saga
+
+</details>
